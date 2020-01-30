@@ -1,0 +1,21 @@
+.Head {
+    text-align: center;
+    color: chartreuse;
+    background-color: royalblue;
+    border: 5px solid black;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.main-stuff {
+    text-align: center;
+    font-family: Georgia,Times,"Times New Roman",serif;
+    color: rgb(255, 124, 78);
+    background-color: #1100FF;
+    border: 5px solid red;
+    
+    outline-color: indianred;
+    pointer-events: auto;
+    scroll-behavior: smooth;
+    text-decoration: underline;
+    transform: skewY(359.5deg);
+}
